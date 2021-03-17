@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Imgur](https://imgur.com/xJRhx6u)
+![img](https://i.imgur.com/xJRhx6u.jpg)
 
 - 🔭 I’m currently studying computer science at the National School of Computer Science ENSI in Tunisia.
 - 🌱 I’m currently learning AI and ML.
